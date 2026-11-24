@@ -1,0 +1,20 @@
+# Arquivos de dados de grafos (podem ultrapassar 100 MB e ser rejeitados pelo GitHub)
+*.txt
+
+# Arquivos objeto, binarios compilados e executaveis
+*.o
+*.out
+*.exe
+programa
+
+# Pastas de resultados e saidas geradas
+resultados/
+saida/
+output/
+
+# Arquivos temporarios de sistema e editores
+.DS_Store
+Thumbs.db
+
+*:Zone.Identifier
+*.zip
